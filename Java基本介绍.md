@@ -11,6 +11,6 @@
 一次编译，到处运行，但必须要有JRE  
 ***  
 ##### 补充  
-JDK：JAVA开发工具集  
-JRE：JAVA运行环境  
-JVM: JAVA虚拟机  
+- JDK：JAVA开发工具集  
+- JRE：JAVA运行环境  
+- JVM: JAVA虚拟机  
