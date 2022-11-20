@@ -6,7 +6,8 @@
 ***  
 ### JAVA的跨平台特性
 ![跨平台特性](https://github.com/Zhijiangjwf/javanote/blob/main/images/%E8%B7%A8%E5%B9%B3%E5%8F%B0%E7%89%B9%E6%80%A7.png)
-![与C语言区别](https://github.com/Zhijiangjwf/javanote/blob/main/images/%E4%B8%8EC%E8%AF%AD%E8%A8%80%E5%8C%BA%E5%88%AB.png)
+![与C语言区别](https://github.com/Zhijiangjwf/javanote/blob/main/images/%E4%B8%8EC%E8%AF%AD%E8%A8%80%E5%8C%BA%E5%88%AB.png)  
+
 一次编译，到处运行，但必须要有JRE  
 ***  
 ##### 补充  
