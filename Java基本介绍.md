@@ -10,14 +10,14 @@
 
 一次编译，到处运行，但必须要有JRE  
 ***  
-##### 补充  
+#### 补充  
 - JDK：JAVA开发工具集  
 - JRE：JAVA运行环境  
 - JVM: JAVA虚拟机  
 - IDE：集成开发环境
 ***
 ### 编写留意
-1.java文件名称必须与public class的名称一致 *该java文件犯的第一个错误就是这个*  
+1.java文件名称必须与public class的名称一致  
 2.一个java文件只能含有一个public class，但可以拥有多个class  
 3.pubilc static void main(String[] args)是所有java程序的入口  
 4.main方法中参数列表可以支持多种写法： String[] args，String [] args，String args[]  
