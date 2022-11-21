@@ -60,4 +60,10 @@
 ##### - JAVA是强类型语言（先定义后使用） 
     -常量是有数据类型  
     -变量都必须声明其数据类型  
-![DataType](https://github.com/Zhijiangjwf/javanote/blob/main/images/DataType.jpg)
+![DataType](https://github.com/Zhijiangjwf/javanote/blob/main/images/DataType.jpg)  
+JAVA数据类型  
+    基本数据类型（4类8种）  
+        - 整数类型：byte short int long（不同类型表示不同长度）  
+        - 浮点类型:float double  
+        - 字符类型:char  
+        - 布尔类型:boolean  
