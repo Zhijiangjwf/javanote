@@ -60,3 +60,4 @@
 ##### - JAVA是强类型语言（先定义后使用） 
     -常量是有数据类型  
     -变量都必须声明其数据类型  
+![DataType](https://github.com/Zhijiangjwf/javanote/blob/main/images/DataType.jpg)
