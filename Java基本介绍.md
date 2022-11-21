@@ -14,3 +14,4 @@
 - JDK：JAVA开发工具集  
 - JRE：JAVA运行环境  
 - JVM: JAVA虚拟机  
+- IDE：集成开发环境
