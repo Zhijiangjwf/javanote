@@ -104,4 +104,8 @@ JAVA数据类型
 ![转义字符](https://github.com/Zhijiangjwf/javanote/blob/main/images/%E8%BD%AC%E4%B9%89%E5%AD%97%E7%AC%A6.png)  
 - char类型在内存中存储的是该字符的Unicode编码值，所以char类型可以当做int类型来处理  
 #### 布尔类型
-- boolean类型是用来判断逻辑条件，一般用于程序流程控制
+- boolean类型是用来判断逻辑条件，一般用于程序流程控制  
+***
+### 常量和变量
+Java是一种强类型语言，每个变量都必须声明其类型
+Java变量是程序控制中最基本的存储单位
