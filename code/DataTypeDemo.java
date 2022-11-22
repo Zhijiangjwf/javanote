@@ -21,6 +21,19 @@ public class DataTypeDemo {
         // byte b = 127;
         // short s = 111144;
         // long L = 9999999999L;
-
+        // float F1 = 2.121212121214334F;
+        // float F2 = 2.1212121212143556F;
+        // System.out.println(F1 == F2);
+        /*
+         * 1.默认浮点类型是double类型
+         * 2.使用float时，数字后要加f
+         * 3.浮点类型并不能表示一个精确的值，会损失一定精度
+         */
+        char a = 'a'; // 表示一个字符
+        char b = 'A';
+        String a1 = "A"; // 表示一个字符串，也就是表示一个字符序列
+        System.out.println(a == 97);
+        System.out.println(b == 65);
+        // char类型在内存中存储的是该字符的Unicode编码值，所以char类型可以当做int类型来处理,a的编码值是97
     }
 }
