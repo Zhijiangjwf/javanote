@@ -34,6 +34,6 @@ public class DataTypeDemo {
         String a1 = "A"; // 表示一个字符串，也就是表示一个字符序列
         System.out.println(a == 97);
         System.out.println(b == 65);
-        // char类型在内存中存储的是该字符的Unicode编码值，所以char类型可以当做int类型来处理,a的编码值是97
+        // char类型在内存中存储的是该字符的Unicode编码值，所以char类型可以当做int类型来处理,a的编码值是97,A的编码值是65
     }
 }
