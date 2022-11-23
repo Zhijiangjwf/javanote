@@ -157,14 +157,14 @@ a=2; b=a++ a=3;b=2 //先给b赋值，再自增
 #### 赋值运算符
 ![赋值运算符](https://github.com/Zhijiangjwf/javanote/blob/main/images/%E8%B5%8B%E5%80%BC%E8%BF%90%E7%AE%97%E7%AC%A6.png)  
 #### 条件运算符  
--x?y:z  //variable x = (expression) ? value if true : value if false
--唯一的三目运算符，并且需要判断布尔表达式的值。该运算符的主要是决定哪个值应该赋值给变量  
-- 经常来代替简单的if-else判断
+-x?y:z  //variable x = (expression) ? value if true : value if false  
+-唯一的三目运算符，并且需要判断布尔表达式的值。该运算符的主要是决定哪个值应该赋值给变量   
+- 经常来代替简单的if-else判断  
 
 #### 运算符优先级
 赋值＜三目＜逻辑＜关系＜算术＜单目（++，--）  
 
-### 基本数据类型之间的转换
+### 基本数据类型之间的转换  
 - 在赋值运算或算术运算时，要求数据类型相同，否则要进行类型转换  
 - 转换方式：**自动转换**、**强制转换**  
 注意：  
