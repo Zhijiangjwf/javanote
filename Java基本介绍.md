@@ -150,7 +150,9 @@ a=2; b=a++ a=3;b=2 //先给b赋值，再自增
 |>=       |检查左操作数的值是否大于或等于右操作数的值，如果是那么条件为真     |
 |<=  |检查左操作数的值是否小于或等于右操作数的值，如果是那么条件为真   |
 #### 逻辑运算符
-![逻辑运算符](https://github.com/Zhijiangjwf/javanote/blob/main/images/%E9%80%BB%E8%BE%91%E8%BF%90%E7%AE%97%E7%AC%A6.png)
+![逻辑运算符](https://github.com/Zhijiangjwf/javanote/blob/main/images/Java%E9%80%BB%E8%BE%91%E8%BF%90%E7%AE%97%E7%AC%A6.png)
+- && 与 & 区别：如果 a 为 false，则不计算 b（因为不论 b 为何值，结果都为 false）
+- **||** 与 **|** 区别：如果 a 为 true，则不计算 b（因为不论 b 为何值，结果都为 true）
 #### 赋值运算符
 
 
